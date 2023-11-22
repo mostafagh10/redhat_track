@@ -132,7 +132,24 @@ max permissions for directory by default = 777
 point D :
 ![Screenshot from 2023-11-22 14-43-00](https://github.com/mostafagh10/redhat_track/assets/41267238/8e066974-8111-44f4-b3fc-e71f4f3896d0)
 --------------------------------------------------------------------------------------
-##q17
+##q17<br />
+A - min permissions to copy directory = 413<br />
+B - min permissions to copy file = 413<br />
+C - min permissions to delete file = 030<br />
+D - min permissions to change to directory = 011<br />
+E - min permissions to list the directory content = 050<br />
+F - min permissions to view file content = 510 <br />
+G- min permissions to modify the file content = 710 <br />
+---------------------------------------------------------------------
+##q18<br />
+![Screenshot from 2023-11-22 20-57-35](https://github.com/mostafagh10/redhat_track/assets/41267238/5ee81143-46d4-4253-906b-ddb6450628fe)<br />
+notice : when i want to remove the file he gave me the warning before removing it .<br />
+----------------------------------------------------------------------
+##q19<br />
+the execution permission for file when be created = 0<br />
+the execution permission for directory when be created = 1<br />
+----------------------------------------------------------------------------------------------------------------------
+
 
 
 
