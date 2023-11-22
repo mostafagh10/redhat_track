@@ -81,8 +81,103 @@ man -s 5 passwd<br />
 man -K passwd<br />
 ![Screenshot from 2023-11-22 08-23-45](https://github.com/mostafagh10/redhat_track/assets/41267238/831d3367-cfba-4f27-bf01-861d496de001)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                        #[lab 2]
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+## q1<br />
+![Screenshot from 2023-11-22 01-08-39](https://github.com/mostafagh10/redhat_track/assets/41267238/efbde441-9eed-4b82-9160-b362348578ea)
+------------------------------------------------------------------------------------
+## q2<br />
+![Screenshot from 2023-11-22 01-12-01](https://github.com/mostafagh10/redhat_track/assets/41267238/3ee386ef-e4fd-4895-9f4f-7b64b6b9228b)
+------------------------------------------------------------------------------------
+## q3<br />
+![Screenshot from 2023-11-22 01-13-53](https://github.com/mostafagh10/redhat_track/assets/41267238/5ab4712f-947c-47cc-80a6-4f800d77db7a)
+-----------------------------------------------------------------------------------
+## q4<br />
+![Screenshot from 2023-11-22 01-14-27](https://github.com/mostafagh10/redhat_track/assets/41267238/a42a71b3-190a-4353-a2ae-23c4c2290cd5)
+-----------------------------------------------------------------------------------
+## q5<br />
+![Screenshot from 2023-11-22 01-18-59](https://github.com/mostafagh10/redhat_track/assets/41267238/cf7fd933-18c7-49ad-8f88-88c2cd200acb)
+-----------------------------------------------------------------------------------
+##q6<br />
+![Screenshot from 2023-11-22 01-19-50](https://github.com/mostafagh10/redhat_track/assets/41267238/8df16241-08dd-4884-a192-9bff703ce878)
+-----------------------------------------------------------------------------------
+##q7<br />
+![Screenshot from 2023-11-22 06-33-11](https://github.com/mostafagh10/redhat_track/assets/41267238/977a8e49-f176-46d6-8fa7-e6c816d2ade9)
+-----------------------------------------------------------------------------------
+##q8 <br />
+![Screenshot from 2023-11-22 06-35-13](https://github.com/mostafagh10/redhat_track/assets/41267238/e62319c5-8ff4-4573-ab26-c2ac050cf7a2)
+-----------------------------------------------------------------------------------
+##q9 & q10 <br />
+![Screenshot from 2023-11-22 06-36-58](https://github.com/mostafagh10/redhat_track/assets/41267238/3a5b74df-3272-4518-ac11-0bf18eb964ae)
+------------------------------------------------------------------------------------
+##q13 <br />
+![Screenshot from 2023-11-22 13-37-59](https://github.com/mostafagh10/redhat_track/assets/41267238/e87f0751-fd03-40e9-a1c1-dfdfd5d5c81a)
+------------------------------------------------------------------------------------
+##q14 <br />
+![Screenshot from 2023-11-22 13-43-23](https://github.com/mostafagh10/redhat_track/assets/41267238/e33e86e7-ccf8-4eb7-a0c8-228d2542e977)
+------------------------------------------------------------------------------------
+##q15 <br />
+![Screenshot from 2023-11-22 13-48-50](https://github.com/mostafagh10/redhat_track/assets/41267238/4d52e86a-db00-4838-8c45-e536b5fcb607)
+------------------------------------------------------------------------------------
+##q16 <br />
+point A : <br />
+![Screenshot from 2023-11-22 13-59-36](https://github.com/mostafagh10/redhat_track/assets/41267238/51919d5c-7ff7-45ce-8160-4a78fca38221)
+<br />
+point B : <br />
+![Screenshot from 2023-11-22 14-14-55](https://github.com/mostafagh10/redhat_track/assets/41267238/1f8fb21f-ee65-4b46-b8b7-ae5c71a717b0)
+<br />
+point C : <br />max permissions for file by default = 666<br />
+max permissions for directory by default = 777
+<br />
+point D :
+![Screenshot from 2023-11-22 14-43-00](https://github.com/mostafagh10/redhat_track/assets/41267238/8e066974-8111-44f4-b3fc-e71f4f3896d0)
+--------------------------------------------------------------------------------------
+##q17
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot from 2023-11-22 01-19-50](https://github.com/mostafagh10/redhat_track/assets/41267238/9e9e4318-dfb4-4952-908e-4168c7d03402)
+
+
+
+
+
+                                                        
 
 
 
