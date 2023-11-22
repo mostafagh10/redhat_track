@@ -145,38 +145,6 @@ point D :
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Screenshot from 2023-11-22 01-19-50](https://github.com/mostafagh10/redhat_track/assets/41267238/9e9e4318-dfb4-4952-908e-4168c7d03402)
-
-
-
-
-
                                                         
 
 
