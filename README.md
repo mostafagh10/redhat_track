@@ -185,7 +185,7 @@ by using printenv command
 ## q7
 ![Screenshot from 2023-11-24 19-39-28](https://github.com/mostafagh10/redhat_track/assets/41267238/f6ecb65d-0d24-4b91-9863-501ae203b062)
 
------------------------------------------------------
+----------------------------------------------------
 
 
 
