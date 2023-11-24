@@ -133,13 +133,20 @@ point D :
 ![Screenshot from 2023-11-22 14-43-00](https://github.com/mostafagh10/redhat_track/assets/41267238/8e066974-8111-44f4-b3fc-e71f4f3896d0)
 --------------------------------------------------------------------------------------
 ##q17<br />
-A - min permissions to copy directory = 413<br />
-B - min permissions to copy file = 413<br />
-C - min permissions to delete file = 030<br />
-D - min permissions to change to directory = 011<br />
-E - min permissions to list the directory content = 050<br />
-F - min permissions to view file content = 510 <br />
-G- min permissions to modify the file content = 710 <br />
+A - (min permissions to copy directory) :<br />
+source directory permissions : 400 & destination direcory permissions : 300 <br />
+B - (min permissions to copy file ) : <br />
+file permessions : 400 & source dir permissions = 100 & destination dir permissions = 300 <br />
+C - (min permissions to delete file) : <br />
+source dir permissions = 300 <br />
+D - (min permissions to change to directory ) : <br />
+source dir permissions = 100 <br />
+E - (min permissions to list the directory content )<br />
+source dir permissions = 400 <br />
+F - (min permissions to view file content) : <br />
+source dir permissions = 400 <br />
+G- (min permissions to modify the file content) : <br />
+file permessions : 600 <br />
 ---------------------------------------------------------------------
 ##q18<br />
 ![Screenshot from 2023-11-22 20-57-35](https://github.com/mostafagh10/redhat_track/assets/41267238/5ee81143-46d4-4253-906b-ddb6450628fe)<br />
@@ -148,7 +155,48 @@ notice : when i want to remove the file he gave me the warning before removing i
 ##q19<br />
 the execution permission for file when be created = 0<br />
 the execution permission for directory when be created = 1<br />
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+                                     #[LAB 3]
+------------------------------------------------------------------------------------------------------------------------------
+## q1
+![Screenshot from 2023-11-24 18-57-32](https://github.com/mostafagh10/redhat_track/assets/41267238/b57aefd5-62d5-41c9-be5f-024b03d0302c)
+--------------------------------------------------
+## q2
+A - by press J to move down one line <br />
+B - by press K to move up one line <br />
+C - <br />
+![Screenshot from 2023-11-24 19-08-14](https://github.com/mostafagh10/redhat_track/assets/41267238/2e8cdeb1-2c1f-4a84-8b79-207cb41f5916)<br />
+D - by press 5G<br />
+E - by press dd,5d<br />
+F - by press $i <br />
+---------------------------------------------------
+## q3
+![Screenshot from 2023-11-24 19-21-37](https://github.com/mostafagh10/redhat_track/assets/41267238/ed07b757-eb7e-4179-b18b-57437ab9d3a4)<br />
+-----------------------------------------------------
+## q4
+![Screenshot from 2023-11-24 19-42-28](https://github.com/mostafagh10/redhat_track/assets/41267238/e889ceb4-c82f-4d3d-b214-1b8eb3414ed4)
+-----------------------------------------------------
+## q5
+
+---------------------------------------------------
+## q6
+by using printenv command
+-----------------------------------------------------
+## q7
+![Screenshot from 2023-11-24 19-39-28](https://github.com/mostafagh10/redhat_track/assets/41267238/f6ecb65d-0d24-4b91-9863-501ae203b062)
+
+-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
