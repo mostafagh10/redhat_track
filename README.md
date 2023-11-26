@@ -174,16 +174,19 @@ F - by press $i <br />
 ![Screenshot from 2023-11-24 19-21-37](https://github.com/mostafagh10/redhat_track/assets/41267238/ed07b757-eb7e-4179-b18b-57437ab9d3a4)<br />
 -----------------------------------------------------
 ## q4
-![Screenshot from 2023-11-24 19-42-28](https://github.com/mostafagh10/redhat_track/assets/41267238/e889ceb4-c82f-4d3d-b214-1b8eb3414ed4)
+file:///home/mostafa/Pictures/Screenshot%20from%202023-11-26%2013-33-12.png
 -----------------------------------------------------
 ## q5
-
+![Screenshot from 2023-11-26 13-34-22](https://github.com/mostafagh10/redhat_track/assets/41267238/23d5ae40-226c-4836-99d0-3df1c63066ce)
 ---------------------------------------------------
 ## q6
-by using printenv command
+by using echo $path command
 -----------------------------------------------------
 ## q7
 ![Screenshot from 2023-11-24 19-39-28](https://github.com/mostafagh10/redhat_track/assets/41267238/f6ecb65d-0d24-4b91-9863-501ae203b062)
+-----------------------------------------------------
+## q8 
+
 
 ----------------------------------------------------
 
