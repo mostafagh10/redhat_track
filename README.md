@@ -174,7 +174,7 @@ F - by press $i <br />
 ![Screenshot from 2023-11-24 19-21-37](https://github.com/mostafagh10/redhat_track/assets/41267238/ed07b757-eb7e-4179-b18b-57437ab9d3a4)<br />
 -----------------------------------------------------
 ## q4
-file:///home/mostafa/Pictures/Screenshot%20from%202023-11-26%2013-33-12.png
+![Screenshot from 2023-11-26 13-33-12](https://github.com/mostafagh10/redhat_track/assets/41267238/6a4b797f-a639-432a-9378-129ae237fc3d)
 -----------------------------------------------------
 ## q5
 ![Screenshot from 2023-11-26 13-34-22](https://github.com/mostafagh10/redhat_track/assets/41267238/23d5ae40-226c-4836-99d0-3df1c63066ce)
