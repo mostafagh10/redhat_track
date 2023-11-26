@@ -184,11 +184,109 @@ by using echo $path command
 -----------------------------------------------------
 ## q7
 ![Screenshot from 2023-11-24 19-39-28](https://github.com/mostafagh10/redhat_track/assets/41267238/f6ecb65d-0d24-4b91-9863-501ae203b062)
------------------------------------------------------
-## q8 
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                #[LAB 5]
+----------------------------------------------------------------------------------------------------------------------------------------------
+## q1<br />
+![1-2](https://github.com/mostafagh10/redhat_track/assets/41267238/5a83f713-1f26-4be5-8d0b-69c94d9cf534)<br />
+![1-3](https://github.com/mostafagh10/redhat_track/assets/41267238/a0bf3459-a34d-4ccd-b533-2be5ef452eec)<br />
+
+![1-4](https://github.com/mostafagh10/redhat_track/assets/41267238/d50dc43f-2848-4f20-b1ae-40da6ee7e791)<br />
+
+![1-5](https://github.com/mostafagh10/redhat_track/assets/41267238/e46eb739-8cc0-401c-8b1f-35b639216aa1)<br />
+
+![1-6](https://github.com/mostafagh10/redhat_track/assets/41267238/2ad8dedd-8dd6-46e4-8952-d25ef24cd663)<br />
+
+![1-7](https://github.com/mostafagh10/redhat_track/assets/41267238/053db538-4b98-4d4a-8dc8-2462cdf4b7d4)<br />
+----------------------------------------------------------
+## q2 <br />
+![2](https://github.com/mostafagh10/redhat_track/assets/41267238/1ca38358-2bff-4004-8913-6765a512b2ad)
+---------------------------------------------------------
+## q3 <br />
+![3](https://github.com/mostafagh10/redhat_track/assets/41267238/dce3808e-0aad-4379-8c30-8921fffe4506)
+---------------------------------------------------------
+## q4 <br />
+![4](https://github.com/mostafagh10/redhat_track/assets/41267238/c6a3d18f-18f4-4484-b683-0df9c03dcedf)
+---------------------------------------------------------
+## q5 <br />
+![5](https://github.com/mostafagh10/redhat_track/assets/41267238/659a5cc9-1821-4024-a142-86267daa4df6)
+---------------------------------------------------------
+## q6 <br />
+![6](https://github.com/mostafagh10/redhat_track/assets/41267238/7f429f7d-b190-438e-a2b1-01c3ed6ae8bc)
+---------------------------------------------------------
+## q7 <br />
+![7](https://github.com/mostafagh10/redhat_track/assets/41267238/81edb930-d1e1-4c19-9ab0-4539ae01fa94)
+---------------------------------------------------------
+## q8 <br />
+![8](https://github.com/mostafagh10/redhat_track/assets/41267238/c28a1c6a-3bb6-4a3c-8760-4afa5e585499)
+---------------------------------------------------------
+## q9 <br />
+![9-1](https://github.com/mostafagh10/redhat_track/assets/41267238/e0b641ad-3d48-40f6-ab65-c6e4d4d0d9e9)<br />
+![9-2](https://github.com/mostafagh10/redhat_track/assets/41267238/8d78bce2-b766-4775-9b98-56808df3ac08)<br />
+----------------------------------------------------------
+## q10 <br />
+![10](https://github.com/mostafagh10/redhat_track/assets/41267238/db930367-0359-4461-8ff3-b518c2ee89a3)
+----------------------------------------------------------
+## q11 <br />
+![11](https://github.com/mostafagh10/redhat_track/assets/41267238/5eb259db-47ef-4bc5-bac8-6fe78a9d84e3)
+-----------------------------------------------------------
+## q12 <br />
+![12](https://github.com/mostafagh10/redhat_track/assets/41267238/bb5ac00c-6a02-4ecb-aafc-febcd0d9c188)
+-------------------------------------------------------------
 
 
-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
